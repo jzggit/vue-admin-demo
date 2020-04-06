@@ -1,5 +1,5 @@
-# vue-admin-template
-
+# vue-admin-demo(vue-admin-template)
+项目为练手项目，基于PanJiaChen/vue-admin-template开源项目进行，原访问地址：https://github.com/PanJiaChen/vue-admin-template.git
 English | [简体中文](./README-zh.md)
 
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
